@@ -1,0 +1,28 @@
+{
+  "name": "wicharts",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "passport": "~0.2.0",
+    "passport-withings": "~0.1.0",
+    "express": "~4.0.0",
+    "express-session": "~1.0.2",
+    "cookie-parser": "~1.0.1",
+    "lodash": "~2.4.1",
+    "mathjs": "~0.19.0",
+    "promise": "~4.0.0",
+    "d3": "~3.4.6",
+    "jquery": "~2.1.0",
+    "browserify": "~3.43.0",
+    "gulp": "~3.6.1",
+    "gulp-plumber": "~0.6.1",
+    "gulp-browserify": "~0.5.0",
+    "moment": "~2.6.0"
+  }
+}

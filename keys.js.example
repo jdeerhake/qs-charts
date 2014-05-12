@@ -1,0 +1,9 @@
+module.exports = {
+  withings : {
+    consumerKey: '',
+    consumerSecret: ''
+  },
+  cookies : {
+    secret : ''
+  }
+};
